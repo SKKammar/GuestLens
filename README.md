@@ -230,10 +230,6 @@ GuestLens complements existing guest-register and foreign-guest reporting workfl
 ## Repository Status
 
 > This repository contains the full proposal and system architecture for GuestLens, submitted as part of the Snapdragon® AI Lab Build & Present Challenge.
->
-> Implementation begins upon selection.
->
-> All performance targets will be benchmarked on the HP OmniBook X with Snapdragon X Elite prior to demonstration.
 
 ---
 
